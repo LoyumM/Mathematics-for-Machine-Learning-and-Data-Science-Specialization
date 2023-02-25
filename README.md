@@ -1,3 +1,4 @@
 # Mathematics-for-Machine-Learning-and-Data-Science-Specialization
-- Non-credit online course by DeepLearning.AI 
-- Repo for storing notes and test solutions
+
+## About this specialization:
+Mathematics for Machine Learning and Data Science is a beginner-friendly specialization where you’ll master the fundamental mathematics toolkit of machine learning: calculus, linear algebra, statistics, and probability.
